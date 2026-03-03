@@ -1,4 +1,4 @@
-Machine Learning in Finance – Fraud Detection Project
+**Machine Learning in Finance – Fraud Detection Project**
 
 This project was developed during my Erasmus exchange semester at the University of Warsaw as part of the Machine Learning in Finance coursework.
 
@@ -26,7 +26,7 @@ Identify the most effective approach for detecting fraudulent transactions
 
 📊 Dataset Description
 
-The dataset contains transaction-level financial data, including:
+**The dataset contains transaction-level financial data, including:**
 
 Transaction amounts
 
@@ -40,7 +40,7 @@ The dataset is highly imbalanced, reflecting real-world financial systems where 
 
 ⚙️ Methodology
 
-The project follows a structured machine learning pipeline:
+**The project follows a structured machine learning pipeline:**
 
 Data preprocessing
 
@@ -60,7 +60,7 @@ Performance comparison
 
 🤖 Models Implemented
 
-The following models were trained and evaluated:
+**The following models were trained and evaluated:**
 
 Logistic Regression – baseline interpretable model
 
@@ -72,7 +72,7 @@ XGBoost – gradient boosting algorithm
 
 📈 Evaluation Metrics
 
-Given the class imbalance, models were evaluated using metrics such as:
+**Given the class imbalance, models were evaluated using metrics such as:**
 
 Precision
 
